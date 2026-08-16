@@ -1,127 +1,279 @@
-<!-- Separador Neón Superior -->
+<!-- ========================================================= -->
+
+<!--                         HEADER                            -->
+
+<!-- ========================================================= -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separador">
 </p>
 
-<!-- Encabezado Principal -->
-<div align="center">
-  <h1>⚡ ¡Hola a todos! 👋, soy Ángel Daniel</h1>
+<h1 align="center">⚡ Hola, soy Ángel Daniel 👋</h1>
 
-  <!-- Texto Animado Azul Neón -->
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=600&height=50&lines=Desarrollador+Web+Frontend;Creador+de+Familia+FF;Gest%C3%B3n+de+Clanes+Free+Fire;Especialista+en+Herramientas+Gaming;Siempre+Aprendiendo+Nuevas+Tecnolog%C3%ADas" alt="Typing SVG">
-    </a>
-  </p>
-
-  <p align="center">
-    <i>"Transformando ideas en código e impulsando la experiencia gamer."</i>
-  </p>
-</div>
-
-<hr/>
-
-<!-- Sobre Mí con Avatar de la Computadora -->
-## 🧑‍💻 Sobre Mí
-
-<!-- Avatar Animado del Programador en la Laptop -->
-<picture>
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280px" alt="Dev en Laptop">
-</picture>
-
-- 💻 **Especialidad:** Desarrollador Web Frontend enfocado en soluciones digitales intuitivas.
-- 🎮 **Comunidad Gaming:** Apasionado por crear herramientas organizativas para clanes de **Free Fire**.
-- 🛠️ **Enfoque actual:** Diseño responsivo (UX/UI), optimización web y lógica en JavaScript.
-- 🎯 **Visión:** Automatizar la gestión de comunidades gaming mediante plataformas rápidas y seguras.
-- ✉️ **Contacto Directo:** [![Email](https://img.shields.io/badge/Email-Contacto-00E5FF?style=flat-square&logo=gmail&logoColor=black)](mailto:tu-correo@gmail.com)
-
-<br clear="right"/>
-
-<hr/>
-
-<!-- Proyectos Destacados -->
-## 📌 Proyectos Destacados
-
-### 🎮 MayorcitosK — Panel Táctico
-Plataforma web integral para la administración, gestión de miembros y control operativo del clan **MayorcitosK** en Free Fire. Incluye sistema de autenticación de miembros, chat interno, ruleta del clan y panel de reglas personalizable.
-
-<!-- Logo del Clan -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/636121e5-0500-46a6-b26b-35a66ad69005" width="130" alt="Logo MayorcitosK" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=50&lines=Desarrollador+Web+Frontend;Creador+de+proyectos+Gaming;Desarrollo+de+interfaces+modernas;JavaScript+%7C+HTML+%7C+CSS;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Presentación">
 </p>
 
-<!-- Capturas Alineadas -->
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <sub><b>⚡ Acceso al Sistema</b></sub><br/><br/>
-      <img src="https://github.com/user-attachments/assets/5e05e1ae-9985-4d2e-a060-b278a23f870a" width="280" alt="Login MayorcitosK" />
-    </td>
-    <td align="center" valign="middle">
-      <sub><b>🖥️ Panel de Control Interno</b></sub><br/><br/>
-      <img src="https://github.com/user-attachments/assets/9da0c30f-35b2-4686-83a1-a6444f17d8a0" width="480" alt="Dashboard MayorcitosK" />
-    </td>
-  </tr>
+<p align="center">
+  <i>“Transformando ideas en código e impulsando experiencias digitales.”</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-00E5FF?style=for-the-badge&logo=html5&logoColor=black">
+  <img src="https://img.shields.io/badge/Gaming-Projects-00BFFF?style=for-the-badge&logo=gamepad&logoColor=white">
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                        SOBRE MÍ                           -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🧑‍💻 Sobre mí</h2>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 ¿Quién soy?
+
+Soy desarrollador enfocado en crear **aplicaciones web modernas**, interfaces intuitivas y herramientas digitales.
+
+Me interesa especialmente combinar el desarrollo web con proyectos relacionados con comunidades gaming.
+
+### 🚀 En qué me enfoco
+
+* 💻 Desarrollo Web Frontend
+* ⚡ JavaScript y aplicaciones interactivas
+* 🎨 Diseño de interfaces y UI/UX
+* 📱 Diseño responsive
+* 🎮 Herramientas para comunidades gaming
+* 🛠️ Sistemas de gestión web
+* 🚀 Optimización y mejora de aplicaciones
+
+### 🎯 Objetivo
+
+Crear soluciones que sean **funcionales, modernas, rápidas y fáciles de utilizar**.
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Programador trabajando">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Always-Learning-00E5FF?style=for-the-badge">
+
+</td>
+</tr>
 </table>
 
-- 🔐 **Autenticación:** Sistema de ingreso restringido solo para miembros del clan.
-- 👥 **Gestión de Miembros:** Registro dinámico, lista general y administración de pendientes.
-- 📜 **Reglas y Avisos:** Panel interactivo para publicar y editar las normas del clan.
-- 🎲 **Módulos Interactivos:** Chat del clan, ruleta de sorteos y eventos.
-- 🛠️ **Tecnologías:** HTML5, CSS3, JavaScript.
+---
+
+<!-- ========================================================= -->
+
+<!--                    PROYECTO PRINCIPAL                     -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🎮 Proyecto Principal</h2>
+
+<h3 align="center">⚡ Familia FF — Gestión de Clan</h3>
+
+<p>
+<b>Familia FF</b> es una aplicación web desarrollada para facilitar la
+organización, administración y comunicación de una comunidad gaming.
+</p>
+
+<p>
+El sistema está pensado para gestionar integrantes mediante su
+<b>ID y nombre dentro del juego</b>, controlar registros y organizar
+diferentes funciones del clan.
+</p>
 
 <p align="center">
-  <a href="https://github.com/orocheahuanariangeldaniel9-a11y/-Familia-FF">
-    <img src="https://img.shields.io/badge/VER_REPOSITORIO-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Ver Repositorio"/>
+  <img src="https://github.com/user-attachments/assets/636121e5-0500-46a6-b26b-35a66ad69005" width="150" alt="Logo Familia FF">
+</p>
+
+<!-- ========================================================= -->
+
+<!--                 CARACTERÍSTICAS DEL PROYECTO              -->
+
+<!-- ========================================================= -->
+
+<h3 align="center">✨ Características principales</h3>
+
+<p align="center">
+  👥 <b>Gestión de miembros</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🔐 <b>Sistema de acceso</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📋 <b>Control de registros</b>
+</p>
+
+<p align="center">
+  💬 <b>Comunicación interna</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🎲 <b>Eventos interactivos</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📜 <b>Reglas y avisos</b>
+</p>
+
+<p align="center">
+  📱 <b>Diseño responsive</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  ⚡ <b>Interfaz rápida</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🚀 <b>Experiencia moderna</b>
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    ESTADÍSTICAS                           -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">📊 GitHub</h2>
+
+<p align="center">
+  <a href="https://github.com/orocheahuanariangeldaniel9-a11y">
+    <img src="https://img.shields.io/github/followers/orocheahuanariangeldaniel9-a11y?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=00E5FF" alt="Seguidores">
+  </a>
+
+  <a href="https://github.com/orocheahuanariangeldaniel9-a11y?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositorios-Ver%20repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
   </a>
 </p>
 
-<hr/>
+<!-- ========================================================= -->
 
-<!-- Tecnologías y Herramientas -->
-## 🛠️ Tecnologías y Herramientas
+<!--                  ACTIVIDAD DE GITHUB                       -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-00E5FF?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-00B0FF?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+<!-- ========================================================= -->
 
-<hr/>
-
-<!-- Actividad en GitHub -->
-## 📊 Actividad en GitHub
+<h2 align="center">🔥 Actividad en GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orocheahuanariangeldaniel9-a11y&theme=react-dark&hide_border=false&border_radius=8&color=00E5FF&area=true" width="100%" alt="Gráfico de actividad de GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orocheahuanariangeldaniel9-a11y&theme=react-dark&hide_border=true&area=true&color=00E5FF&line=00E5FF&point=FFFFFF" width="95%" alt="Actividad de GitHub">
 </p>
 
-<hr/>
+---
 
-<!-- Redes y Contacto -->
-## 🌐 Conectemos
+<!-- ========================================================= -->
+
+<!--                    RACHA DE TRABAJO                       -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">⚡ Racha de contribuciones</h2>
 
 <p align="center">
-  <a href="https://github.com/orocheahuanariangeldaniel9-a11y" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-00E5FF?style=flat-square&logo=github&logoColor=black" alt="GitHub"/>
-  </a>
-  <a href="mailto:tu-correo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-00B0FF?style=flat-square&logo=gmail&logoColor=black" alt="Gmail"/>
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orocheahuanariangeldaniel9-a11y&theme=tokyonight&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="65%" alt="Racha de contribuciones">
 </p>
 
-<!-- Separador Neón Inferior -->
+<!-- ========================================================= -->
+
+<!--                  TROFEOS ELIMINADOS                       -->
+
+<!-- ========================================================= -->
+
+<!--
+Se eliminó GitHub Trophies porque el servicio externo
+github-profile-trophy.vercel.app puede dejar de responder
+y mostrar una imagen rota.
+-->
+
+
+---
+
+<!-- ========================================================= -->
+
+<!--                  ACTUALMENTE TRABAJANDO                   -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🎯 Actualmente trabajando en</h2>
+
+<p>
+🚀 Desarrollo de aplicaciones web modernas<br>
+⚡ Mejorando mis conocimientos de JavaScript<br>
+🎨 Creando interfaces más profesionales<br>
+🎮 Desarrollando herramientas para comunidades gaming<br>
+📱 Mejorando la experiencia en dispositivos móviles<br>
+💡 Creando nuevos proyectos personales
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                    MI FILOSOFÍA                           -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">💡 Mi filosofía</h2>
+
+<p align="center">
+  <i>
+    “Cada línea de código es una oportunidad para crear algo mejor.”
+  </i>
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                      CONTACTO                             -->
+
+<!-- ========================================================= -->
+
+<h2 align="center">🌐 Conectemos</h2>
+
+<p align="center">
+
+<a href="https://github.com/orocheahuanariangeldaniel9-a11y">
+  <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="mailto:tu-correo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-Comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<a href="https://youtube.com">
+  <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+</p>
+
+---
+
+<!-- ========================================================= -->
+
+<!--                        FOOTER                              -->
+
+<!-- ========================================================= -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Separador">
+</p>
+
+<h3 align="center">
+  ⚡ Ángel Daniel
+</h3>
+
+<p align="center">
+  <i>Developer • Frontend • Gaming Projects</i>
+</p>
+
+<p align="center">
+  ❤️ Gracias por visitar mi perfil
 </p>
